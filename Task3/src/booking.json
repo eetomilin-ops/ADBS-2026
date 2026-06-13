@@ -1,0 +1,71 @@
+{
+  "bk1": {
+    "guest_id": 3,
+    "guest_name": "Bob",
+    "room_id": 1,
+    "room_type": "Single",
+    "room_price": 89,
+    "nights": 3,
+    "check_in": "05-10-2025",
+    "year": 2025,
+    "occupancy": {
+      "2024": { "available_nights": 280 },
+      "2025": { "available_nights": 310 }
+    }
+  },
+  "bk2": {
+    "guest_id": 12,
+    "guest_name": "Alice",
+    "room_id": 2,
+    "room_type": "Double",
+    "room_price": 149,
+    "nights": 7,
+    "check_in": "12-10-2024",
+    "year": 2024,
+    "occupancy": {
+      "2025": { "available_nights": 240 }
+    }
+  },
+  "bk3": {
+    "guest_id": 15,
+    "guest_name": "Tom",
+    "room_id": 3,
+    "room_type": "Suite",
+    "room_price": 299,
+    "nights": 2,
+    "check_in": "20-03-2025",
+    "year": 2025,
+    "occupancy": {
+      "2024": { "available_nights": 180 },
+      "2025": { "available_nights": 195 }
+    }
+  },
+  "bk4": {
+    "guest_id": 15,
+    "guest_name": "Tom",
+    "room_id": 3,
+    "room_type": "Suite",
+    "room_price": 299,
+    "nights": 5,
+    "check_in": "30-09-2024",
+    "year": 2024,
+    "occupancy": {
+      "2024": { "available_nights": 180 },
+      "2025": { "available_nights": 195 }
+    }
+  },
+  "bk5": {
+    "guest_id": 18,
+    "guest_name": "Ben",
+    "room_id": 1,
+    "room_type": "Single",
+    "room_price": 89,
+    "nights": 10,
+    "check_in": "01-03-2025",
+    "year": 2025,
+    "occupancy": {
+      "2024": { "available_nights": 280 },
+      "2025": { "available_nights": 310 }
+    }
+  }
+}
